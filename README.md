@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MargalhoGithub
 - 👀 I’m interested in aprender programação
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  lógica de programação
+- 💞️ I’m looking to collaborate on  tudo que eu for aprender
 - 📫 How to reach me ...
 
 <!---
