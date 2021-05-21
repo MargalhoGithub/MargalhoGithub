@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MargalhoGithub
-- 👀 I’m interested in aprender programação
+- 👀 I’m interested in aprender HTML, CSS, JAVASCRIPT
 - 🌱 I’m currently learning  Front-End
-- 💞️ I’m looking to collaborate on  tudo que eu for aprender
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on  tudo que for preciso  para aprender e colaborar 
+- - 📫 How to reach me ...
 
 <!---
 MargalhoGithub/MargalhoGithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
