@@ -2,7 +2,7 @@
 - 👀 I’m interested in aprender HTML, CSS, JAVASCRIPT
 - 🌱 I’m currently learning  Front-End
 - 💞️ I’m looking to collaborate on  tudo que for preciso  para aprender e colaborar 
-- - 📫 How to reach me ...
+- - 📫 How to reach me ...margalhosud@gmail.com
 
 <!---
 MargalhoGithub/MargalhoGithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
